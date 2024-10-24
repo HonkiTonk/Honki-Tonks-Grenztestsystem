@@ -1,6 +1,12 @@
 package HTB2_Changelog is
    
-   -- 1.01.2000 => 1.01.3000 (18.10.2024);
+   -- 1.01.3000 => 1.01.4000 (19.10.2024);
+   
+   -- Pragma files adjusted.
+   
+   
+   
+   -- 1.01.2000 => 1.01.3000 (19.10.2024);
    
    -- gpr files adjusted because there were problems with some settings when using the library in a project.
    
