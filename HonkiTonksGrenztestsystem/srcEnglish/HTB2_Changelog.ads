@@ -2,7 +2,7 @@ package HTB2_Changelog is
    
    -- 1.01.3000 => 1.01.4000 (19.10.2024);
    
-   -- Pragma files adjusted.
+   -- Pragma file adjusted.
    
    
    
