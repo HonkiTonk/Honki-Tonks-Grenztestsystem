@@ -1,4 +1,5 @@
 package HTB2_Changelog is
+   pragma Pure;
    
    -- 1.01.3000 => 1.01.4000 (19.10.2024);
    
