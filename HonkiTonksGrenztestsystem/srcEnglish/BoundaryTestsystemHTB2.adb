@@ -1,4 +1,4 @@
-package body HTB2_BoundaryTestsystem is
+package body BoundaryTestsystemHTB2 is
          
    function AdditionSubtraction
      (BaseValueExternal : in WholeNumber;
@@ -214,4 +214,4 @@ package body HTB2_BoundaryTestsystem is
       
    end DecimalPointNumberMultiplication;
 
-end HTB2_BoundaryTestsystem;
+end BoundaryTestsystemHTB2;
