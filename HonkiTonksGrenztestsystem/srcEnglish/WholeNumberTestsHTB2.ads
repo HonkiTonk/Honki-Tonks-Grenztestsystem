@@ -1,4 +1,4 @@
-package BoundaryTestsystemHTB2 is
+package WholeNumberTestsHTB2 is
    pragma Pure;
 
    generic type WholeNumber is range <>;
@@ -28,12 +28,5 @@ package BoundaryTestsystemHTB2 is
      (BaseValueExternal : in WholeNumber;
       MultiplierExternal : in WholeNumber)
       return WholeNumber;
-   
-   generic type DecimalPointNumber is digits <>;
 
-   function DecimalPointNumberMultiplication
-     (BaseValueExternal : in DecimalPointNumber;
-      MultiplierExternal : in DecimalPointNumber)
-      return DecimalPointNumber;
-   
-end BoundaryTestsystemHTB2;
+end WholeNumberTestsHTB2;

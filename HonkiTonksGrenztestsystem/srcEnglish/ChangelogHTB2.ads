@@ -1,6 +1,17 @@
 package ChangelogHTB2 is
    pragma Pure;
 
+   -- Version 1.01.5000 => 1.03.0000 (10.11.2024):
+   
+   -- Pragma file adjusted.
+   -- Calculation errors in AdditionSubtractionNatural and AdditionSubtractionPositive corrected.
+   -- Calculations optimized.
+   -- Addition/Subtraction for decimal numbers added.
+   -- Naming revised.
+   -- Split the calculations into an whole number and a decimal number section.
+   
+   
+
    -- Version 1.01.4000 => 1.01.5000 (02.11.2024):
    
    -- Naming revised.
